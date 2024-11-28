@@ -51,4 +51,4 @@
 
 ## Resources:
 - [Kaggle Learn](https://www.kaggle.com/learn)
-  
+- [Roadmap](https://roadmap.sh/ai-data-scientist)
